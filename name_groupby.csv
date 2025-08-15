@@ -1,0 +1,4 @@
+category,total_sales_sum,total_sales_mean,min_profit,max_profit
+A,300,150.0,20,30
+B,450,225.0,15,40
+C,400,400.0,60,60

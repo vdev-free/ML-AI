@@ -1,0 +1,7 @@
+,count,count,count,count,mean,mean,mean,mean,sum,sum,sum,sum
+,orders,orders,sales,sales,orders,orders,sales,sales,orders,orders,sales,sales
+region,North,South,North,South,North,South,North,South,North,South,North,South
+product,,,,,,,,,,,,
+A,2,1,2,1,4.5,8.0,110.0,200.0,9,8,220,200
+B,1,2,1,2,6.0,9.5,150.0,290.0,6,19,150,580
+C,2,1,2,1,8.0,11.0,260.0,350.0,16,11,520,350

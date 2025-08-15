@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+  "python.linting.enabled": true,
+  "python.linting.ruffEnabled": true,
+  "python.linting.ruffPath": "ruff",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.ruff": true
+  }
+}
