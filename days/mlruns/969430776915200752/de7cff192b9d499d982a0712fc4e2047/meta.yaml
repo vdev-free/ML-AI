@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/vdev/Desktop/ML AI/day_10_mini_prodg/days/mlruns/969430776915200752/de7cff192b9d499d982a0712fc4e2047/artifacts
+end_time: 1770110829496
+entry_point_name: ''
+experiment_id: '969430776915200752'
+lifecycle_stage: active
+run_id: de7cff192b9d499d982a0712fc4e2047
+run_name: test_2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770110829456
+status: 3
+tags: []
+user_id: vdev

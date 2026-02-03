@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/vdev/Desktop/ML AI/day_10_mini_prodg/days/mlruns/969430776915200752/35b513c2666242a7af171f3f1f655f0a/artifacts
+end_time: 1770108104375
+entry_point_name: ''
+experiment_id: '969430776915200752'
+lifecycle_stage: active
+run_id: 35b513c2666242a7af171f3f1f655f0a
+run_name: helo-mlflow
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770108104369
+status: 3
+tags: []
+user_id: vdev
